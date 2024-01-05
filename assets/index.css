@@ -1,0 +1,81 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #091B0E !important;
+    background: #f8fcf9 !important;
+}
+
+.navbar {
+    background-color: #45BA6C !important;
+    color: #F8FCF9 !important;
+
+    .navbar-text, .nav-link, .active, .navbar-brand {
+        color: #F8FCF9 !important;
+    }
+}
+
+.btn-primary {
+    background-color: #45BA6C;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #7CD0C3;
+}
+
+.text-bg-success {
+    background-color: #45BA6C !important;
+}
+.text-bg-secondary {
+    background-color: #909293 !important;
+}
+
+.form-check-input:checked {
+    background-color: #45BA6C;
+    border-color: #45BA6C;
+}
+
+.btn-check:checked+.btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check)+.btn:active {
+    border: none;
+    background-color: #45BA6C !important;
+}
+
+.btn:hover {
+    border: none;
+}
+
+.bi-hover:hover {
+    color: #909293;
+}
+
+.table {
+    width: 100%;
+}
+
+.front-page {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+
+}
+.login-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.login-box {
+    width: 45%;
+    padding: 20px;
+    /* Center and middle align the login-box */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+

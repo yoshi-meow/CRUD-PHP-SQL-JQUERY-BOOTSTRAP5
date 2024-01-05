@@ -1,4 +1,4 @@
-# CRUD (PHP, SQL, JQUERY, BOOTSTRAP5)
+# CRUD (PHP, SQL, JQUERY, BOOTSTRAP5, SWEETALERT2, DATATABLES)
 
 ### Login Page
 
@@ -19,3 +19,7 @@
 ### View Data Modal
 
 [![Opera-Snapshot-2024-01-06-011235-lstv-crud-000webhostapp-com.png](https://i.postimg.cc/8kY8dNhn/Opera-Snapshot-2024-01-06-011235-lstv-crud-000webhostapp-com.png)](https://postimg.cc/V5XHmyZj)
+
+### Delete Data
+
+[![Opera-Snapshot-2024-01-06-011928-lstv-crud-000webhostapp-com.png](https://i.postimg.cc/8cR0VQ0L/Opera-Snapshot-2024-01-06-011928-lstv-crud-000webhostapp-com.png)](https://postimg.cc/zHfjnM5f)
